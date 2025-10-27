@@ -2,7 +2,7 @@
 
 > Repositorio de ejemplos y experimentos con patrones de concurrencia en Go: pipelines, fan-out/fan-in, worker pools, pub/sub, control dinámico de workers, supervisores, barrier, context-based cancellation y más.
 
-**Autor:** Fernando M.
+**Autor:** Fernando Vélez M.
 
 ---
 
